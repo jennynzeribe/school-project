@@ -1,0 +1,20 @@
+body{
+    background-color: #69bc5f;
+    overflow: hidden;
+    pointer-events: fill;
+}
+/* Teachers Area CSS */
+.single-teachers-area {
+    position: relative;
+    z-index: 1; }
+    .single-teachers-area .teachers-info h5 {
+      font-weight: 400;
+      margin-bottom: 3px; }
+    .single-teachers-area .teachers-info span {
+      color: wheat;
+      font-size: 14px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    }
+    h5{
+        font-size: 25px;
+    }
